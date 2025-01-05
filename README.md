@@ -1,11 +1,11 @@
-## Hi there 👋 I'm Sai Varun Aitha!
+# Hi there 👋 I'm Sai Varun Aitha!
 ## 🚀 Data Scientist 
 
 
-📍 Vellore
-📧 Email: saivarun.aitha18103@gmail.com
-🔗 LinkedIn: [Saivarun Aitha](https://www.linkedin.com/in/saivarun-aitha/)
-👨‍💻 GitHub: [Sai Varun](https://github.com/AITHASAIVARUN)
+**📍 Vellore** <br/>
+**📧 Email:** saivarun.aitha18103@gmail.com<br/>
+**🔗 LinkedIn:** [Saivarun Aitha](https://www.linkedin.com/in/saivarun-aitha/) <br/>
+**👨‍💻 GitHub:** [Sai Varun](https://github.com/AITHASAIVARUN) <br/>
 
 ## About Me 🌐
 Pursuing Integrated MTech in Data Science at Vellore Institute of Technology (VIT), Vellore Passionate about Data Science, Web Development, and building impactful projects.
