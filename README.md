@@ -6,6 +6,7 @@
 **📧 Email:** saivarun.aitha18103@gmail.com<br/>
 **🔗 LinkedIn:** [Saivarun Aitha](https://www.linkedin.com/in/saivarun-aitha/) <br/>
 **👨‍💻 GitHub:** [Sai Varun](https://github.com/AITHASAIVARUN) <br/>
+**Portfolio:** [Sai Varun Portfolio](https://saivarunaitha-portfolio.netlify.app/)<br/>
 
 ## About Me 🌐
 Pursuing Integrated MTech in Data Science at Vellore Institute of Technology (VIT), Vellore Passionate about Data Science, Web Development, and building impactful projects.
