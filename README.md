@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sai+Varun+Aitha!;Pursuing++CSE+with+Data+Science;ML+Engineer;Web+Developer;AI+Enthusiast)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&width=435&height=55&lines=Hi+there+%F0%9F%91%8B+I'm+Sai+Varun+Aitha!;Pursuing++CSE+with+Data+Science+%F0%9F%93%8A;I'm+an+ML+Engineer++%F0%9F%A7%A0+;I'm+an+Web+Developer++%F0%9F%92%BB+;I'm+an+AI+Enthusiast++%F0%9F%A4%96+)](https://git.io/typing-svg)
 
 
 **📍 Vellore** <br/>
