@@ -20,6 +20,19 @@ Pursuing Integrated MTech in Data Science at Vellore Institute of Technology (VI
 - **Certifications:** AWS,WebDevelopment
 - **Internship:** Web Developer Intern at Octanet Technologies (July 2023).
 
+  
+## Certifications:
+  - AWS Certified Cloud Practitioner (2025)
+  - Microsoft Azure AI Fundamentals
+  - Distributed Databases
+  - Artificial Intelligence Primer Certification
+  - Salesforce AI Associate
+  - Principles of Generative AI Certification
+  - Oracle Database 12c: SQL Fundamentals
+  - Deep Learning
+  - Natural Language Processing
+  - Java SE 8 Features
+
 ## 🌱 Interests:
 Dancing, Acting, Gaming, Coding, and Movies
 
