@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Sai Varun Aitha!
-## 🚀 Data Scientist 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sai+Varun+Aitha!;Pursuing++CSE+with+Data+Science;ML+Engineer;Web+Developer;AI+Enthusiast)](https://git.io/typing-svg) 
 
 
 **📍 Vellore** <br/>
